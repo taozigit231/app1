@@ -26,7 +26,7 @@ import '08_state/04_lifecycle.dart';
 //practice for review
 // import 'practice/anonymous.dart';
 void main(List<String> args) {
-  print('dictory:$Directory');
+  // print('dictory:$Directory');
   // runApp(new Text('Hello Flutter',
   // textDirection:TextDirection.ltr,
   // ),);
